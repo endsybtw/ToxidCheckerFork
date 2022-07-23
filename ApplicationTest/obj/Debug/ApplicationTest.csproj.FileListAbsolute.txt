@@ -1,0 +1,10 @@
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe.config
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.pdb
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.Form1.resources
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.Properties.Resources.resources
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.exe
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.pdb

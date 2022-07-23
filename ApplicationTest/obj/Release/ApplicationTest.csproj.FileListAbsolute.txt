@@ -1,0 +1,11 @@
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Release\ToxidChecker.exe.config
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Release\ToxidChecker.exe
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\bin\Release\ToxidChecker.pdb
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ApplicationTest.AboutForm.resources
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ApplicationTest.Form1.resources
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ToxidChecker.Properties.Resources.resources
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ApplicationTest.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ToxidChecker.exe
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ToxidChecker.pdb
+C:\Users\Win10\source\repos\ApplicationTest\ApplicationTest\obj\Release\ApplicationTest.csprojAssemblyReference.cache
